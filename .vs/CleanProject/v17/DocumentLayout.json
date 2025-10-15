@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\federica.senni\\Downloads\\CleanProject\\CleanProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF6C31-98D2-438D-AE83-E7944242C16C}|Application\\Application.csproj|c:\\users\\federica.senni\\downloads\\cleanproject\\cleanproject\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83EF6C31-98D2-438D-AE83-E7944242C16C}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95CF993-A778-4335-8BA1-E2AFFB0D26C6}|UIConsole\\UIConsole.csproj|c:\\users\\federica.senni\\downloads\\cleanproject\\cleanproject\\uiconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95CF993-A778-4335-8BA1-E2AFFB0D26C6}|UIConsole\\UIConsole.csproj|solutionrelative:uiconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B376C8-336A-4E15-9B38-11B6957DF10E}|TestDomani\\TestDomani.csproj|c:\\users\\federica.senni\\downloads\\cleanproject\\cleanproject\\testdomani\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B376C8-336A-4E15-9B38-11B6957DF10E}|TestDomani\\TestDomani.csproj|solutionrelative:testdomani\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\federica.senni\\Downloads\\CleanProject\\CleanProject\\UIConsole\\Program.cs",
+              "RelativeDocumentMoniker": "UIConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\federica.senni\\Downloads\\CleanProject\\CleanProject\\UIConsole\\Program.cs",
+              "RelativeToolTip": "UIConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:26:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\federica.senni\\Downloads\\CleanProject\\CleanProject\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\federica.senni\\Downloads\\CleanProject\\CleanProject\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T09:26:06.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\federica.senni\\Downloads\\CleanProject\\CleanProject\\TestDomani\\Test1.cs",
+              "RelativeDocumentMoniker": "TestDomani\\Test1.cs",
+              "ToolTip": "C:\\Users\\federica.senni\\Downloads\\CleanProject\\CleanProject\\TestDomani\\Test1.cs",
+              "RelativeToolTip": "TestDomani\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:23:50.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
